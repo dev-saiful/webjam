@@ -33,7 +33,7 @@ This project is a simple Express server that acts as a proxy to fetch webinar de
 
 1. Start the server:
    ```bash
-   node server.js
+   node index.js
    ```
    The server will be running at `http://localhost:3000`.
 
