@@ -13,8 +13,8 @@ This project is a simple Express server that acts as a proxy to fetch webinar de
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-name/webinar-proxy.git
-   cd webinar-proxy
+   git clone https://github.com/dev-saiful/webjam.git
+   cd webjam
    ```
 
 2. **Install dependencies**:
@@ -24,7 +24,7 @@ This project is a simple Express server that acts as a proxy to fetch webinar de
 
 3. **Run the server**:
    ```bash
-   node server.js
+   node index.js
    ```
 
 ---
@@ -66,7 +66,7 @@ This project is a simple Express server that acts as a proxy to fetch webinar de
 
 ## Notes
 
-- The `api_key` and `webinar_id` values are hardcoded. Modify them as needed in the `server.js` file.
+- The `api_key` and `webinar_id` values are hardcoded. Modify them as needed in the `index.js` file.
 - Ensure the API key has proper permissions to access the WebinarJam API.
 
 ---
